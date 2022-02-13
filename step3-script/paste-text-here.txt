@@ -1,13 +1,18 @@
-This will be my tagline:
+This will be my tagline: Quality websites, built for the future.
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web: My name is Matt Roddy, I have a passion in Web Design and Development because I believe there is always something new to learn. I am currently pursuing an Associate in Science Degree in Multimedia Technologies, with a Concentration in Web Design and Development. This is my portfolio website which I have created to demonstrate my abilities in Front-End Web Development, and I am proud to display some of my highly accomplished projects. I always want to try something new with my websites, and love working on various project topics that give me the freedom to use different styles and layouts. I am willing to take on any challenge or project that comes my way and want to do everything I can to create a website to the satisfaction of my clients and their customers. I want to develop quality experiences for website users and provide a client with the best service that I can offer.
 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Call of The River Soaps E-Commerce Website.
+Talent Showcased: Design, Front-End Development, Responsive Layout 
+Objective: Inform the user about the Call of the RIver line of soap products, and allow them to make purchases of products through the website.
+Target Audience: Target Audience: Adults
 Highlights: 
-1)
-2)
-3)
+
+1) Hand-coded PHP was used in this project to pull product information from a MySQL database and display it on the webpage
+
+2) The layout was coded to be responsive and rearrange effectively at various screen sizes, from desktop to mobile.
+
+3) A CSS grid allows the products to be laid out attractively and responsively, the user can click on any of the products to visit an individual information page about that product.
+
+4) Dignified and appealing color scheme created with natural browns and greens to give the target audience an enhanced impression that the products are naturally made
