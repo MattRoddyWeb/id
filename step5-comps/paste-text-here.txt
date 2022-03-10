@@ -1,1 +1,25 @@
 Paste all the body copy from your style comps here:
+
+Quality websites, built for you and your business' future.
+
+My name is Matt Roddy. I have a passion in Web Design and Development because I love how there is always something new to learn.I want to do everything I can to create a website to the satisfaction of my clients and their customers. I am currently pursuing an Associates in Science Degree in Multimedia Technologies, with a Concentration in Web Design and Development at Pittsburgh Technical College. This is my portfolio website which I have created to demonstrate my abilities in Front-End Web Development. It displays some of my favorite projects.I love working on various project topics and figuring out the perfect style and layout for your business. I want to develop quality experiences for website users, and provide a client with a website that meets their business goals and lives up to their standards.
+
+My Work
+
+Call of The River Soaps E-Commerce Website.
+Talent Showcased: Design, Front-End Development, Responsive Layout
+Objective: Sell a line of soap products
+Adults
+Highlights: 
+Hand-coded PHP was used in this project to pull product information from a mysql database and display it on the website.
+The layout was carefully styled to be responsive and rearrange effectively at various screen sizes, from desktop to mobile. 
+A CSS grid allows the product information to be laid out attractively and responsively. The user can click on any of the products to visit a page that retrieves detailed information about that individual product.
+Dignified page styling and appealing color scheme consisting of earthy browns and greens to enhance the impression that the products are naturally made.
+
+email: matthewd.roddy@gmail.com
+phone: 724-231-1557
+
+Lorem ipsum text is currently in place of bio
+
+
+
